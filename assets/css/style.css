@@ -506,7 +506,7 @@ main {
 
 .about-text p { margin-bottom: 15px; }
 
-.about-text a { 
+.about-text p a { 
   color: var(--light-gray);
   font-size: var(--fs-6);
   font-weight: var(--fw-300);
